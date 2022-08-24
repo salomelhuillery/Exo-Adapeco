@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salome.</h1>
-[- ![#f03c15]LIVE PREVIEW](https://salomelhuillery.github.io/Exo-Adapeco/)`#f03c15`
+![#f03c15]- [LIVE PREVIEW](https://salomelhuillery.github.io/Exo-Adapeco/)`#f03c15`
 
 <h3 align="center">A passionate web designer from France.</h3>
 
