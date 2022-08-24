@@ -65,7 +65,7 @@ h1{
 }
 
 .photo{
-    background-image: url('img/julia-korner-moonlight-friends-dyru-small-01.jpg');
+    background-image: url('julia-korner-moonlight-friends-dyru-small-01.jpg');
     height: 500px;
     background-attachment: fixed;
     background-size: cover;
@@ -101,7 +101,7 @@ h3 span{
 }
 
 .night{
-    background: no-repeat center url("img/bath.jpg");
+    background: no-repeat center url("bath.jpg");
     background-size: cover;
     height: 500px;
     width: 900px;
@@ -109,7 +109,7 @@ h3 span{
 }
 
 .tree{
-    background: no-repeat center url("img/nature.jpg");
+    background: no-repeat center url("nature.jpg");
     height: 600px;
     background-size: cover;
     width: 500px;
@@ -117,7 +117,7 @@ h3 span{
 }
 
 .portrait{
-    background: no-repeat center url("img/fight.jpg");
+    background: no-repeat center url("fight.jpg");
     height: 550px;
     background-size: cover;
     width: 400px;
@@ -157,7 +157,7 @@ h3 span{
 .julia{
     grid-column-start: 2;
     grid-row: 1/3;
-    background: no-repeat center url("img/julia-korner-ocean-small.jpg");
+    background: no-repeat center url("julia-korner-ocean-small.jpg");
     background-size: cover;
 }
 
@@ -190,7 +190,7 @@ h3 span{
 .cursed{
     grid-column-start: -2;
     grid-row-start: 3;
-    background: no-repeat center url("img/julia-korner-cursed-pot-lineup-dyru.jpg");
+    background: no-repeat center url("julia-korner-cursed-pot-lineup-dyru.jpg");
     height: 450px;
     background-size: cover;
 }
