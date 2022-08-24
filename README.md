@@ -3,6 +3,8 @@
 
 - ❗️ **ALL art included in this page is by [Dyru](https://www.artstation.com/dyru) AKA Julia Körner. Please check their work out.**
 
+- 🌙 For this project I worked on a creating a simple navbar and footer using display:flex and space-between. I also created a parallax scrolling effect. Finally, I used a CSS grid to create a gallery and made it all responsive using media queries. 
+
 - 📫 How to reach me **lhuillery.salome@gmail.com**
 
 - 📄 Know about my experiences [https://salomelhuillery.github.io/](https://salomelhuillery.github.io/)
