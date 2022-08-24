@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salome.</h1>
 <h3 align="center">A passionate web designer from France.</h3>
 
-- ❗️ ALL art included in this page is by [Dyru AKA Julia Körner](https://www.artstation.com/dyru). Please check their work out.**
+- ❗️ **ALL art included in this page is by [Dyru](https://www.artstation.com/dyru)AKA Julia Körner. Please check their work out.**
 
 - 📫 How to reach me **lhuillery.salome@gmail.com**
 
