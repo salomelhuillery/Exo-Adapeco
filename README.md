@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salome.</h1>
+<h3 align="center">[LIVE PREVIEW](https://salomelhuillery.github.io/Exo-Adapeco/)</h3>
+
 <h3 align="center">A passionate web designer from France.</h3>
+
 
 - ❗️ **ALL art included in this page is by [Dyru](https://www.artstation.com/dyru) AKA Julia Körner. Please check their work out.**
 
